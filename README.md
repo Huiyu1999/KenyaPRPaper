@@ -5,4 +5,5 @@ Kenya Demographic and Health Survey (DHS dataset): can be accessed through data 
 
 Market Location Data: https://data.humdata.org/dataset/kenya-markets
 
-# Draft code: [code](https://github.com/Huiyu1999/KenyaPRPaper/blob/main/final%20regression.ipynb)
+# Draft code: 
+[code](https://github.com/Huiyu1999/KenyaPRPaper/blob/main/final%20regression.ipynb)
